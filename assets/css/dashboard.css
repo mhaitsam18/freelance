@@ -1,0 +1,13 @@
+.list{
+	padding: 50px;
+	width: 100px;
+	color: #fff;
+	margin: 10px;
+	background:black ;
+	margin-left: 50px;
+}
+.list p{
+	margin-left: -30px;
+	margin-top: -20px;
+	font-weight: bold;
+}

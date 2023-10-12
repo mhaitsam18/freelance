@@ -1,0 +1,14 @@
+{
+  "name": "freelance",
+  "version": "1.0.0",
+  "description": "Freelance Amri Slamet",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iSam",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.0"
+  }
+}

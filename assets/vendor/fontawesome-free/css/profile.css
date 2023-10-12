@@ -1,0 +1,53 @@
+.bg {
+	padding: 20px;
+	margin: 20px;
+	color: white;
+   background-size: cover;
+
+}
+.tengah{
+   background-color: black;
+   padding: 20px;
+   margin: 20px;
+   vertical-align: middle;
+   background-color: rgba(10, 10, 10, 0.9);
+}
+.nama input::placeholder{
+   color: white;
+}
+.nama input{
+   background: none;
+   border: none;
+   color: white;
+   margin-right: 300px;
+   width: 80%;
+   border-bottom: 2px solid white;
+}
+.email{
+   margin-left: 450px;
+   margin-top: -62px;
+}
+.email input{
+   width: 100%;
+}
+.deskripsi hr{
+   background-color: white;
+   height: 1px;
+   width: 100%;
+}
+.deskripsi textarea{
+   width: 40%;
+   height: 150px; 
+   background: none;
+   border: none;
+   border-bottom: 2px solid white;
+   color: white;
+}
+.tlp input{
+   background: none;
+   border: none;
+   color: white;
+   margin-right: 300px;
+   width: 40%;
+   border-bottom: 2px solid white;
+}
